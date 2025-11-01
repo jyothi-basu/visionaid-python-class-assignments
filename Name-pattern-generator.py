@@ -1,0 +1,6 @@
+user= input("Please enter your name: ")
+print(user[0::2])
+print(user[0::3])
+print(user[-1::-1])
+print(user[-1::-2])
+print(user[-1::-3])
