@@ -1,3 +1,4 @@
+# Writing a simple exception statement.
 
 try:
     x = int(input("Enter first number: "))

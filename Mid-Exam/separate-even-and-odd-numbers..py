@@ -1,3 +1,8 @@
+#   This program generates 7 random integers within a user-specified range. 
+#   Each number is checked to determine whether it is even or odd.
+#   Even numbers are stored in 'Jyothibasu_Evens.txt' and odd numbers in 'Jyothibasu_Odds.txt'.
+#   At the end, the program displays how many even and odd numbers were generated.
+
 import random
 
 even_numbers= 0
