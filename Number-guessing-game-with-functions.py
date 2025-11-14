@@ -1,3 +1,5 @@
+# number guessing game with functions.
+
 #defining functions.
 def greater(attempts):
     try:

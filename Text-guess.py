@@ -1,3 +1,5 @@
+# Text guess.
+
 while True:
     user= input("Please enter some text: ")
     if user== "":

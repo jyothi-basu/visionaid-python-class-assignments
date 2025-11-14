@@ -1,5 +1,6 @@
-password = input("Please enter your password to check its strength: ")
+# Writing a password strength checker.
 
+password = input("Please enter your password to check its strength: ")
 length = 0
 upper_case = 0
 lower_case = 0

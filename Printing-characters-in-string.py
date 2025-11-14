@@ -1,3 +1,5 @@
+# Printing characters in string.
+
 total= 0
 user= input("Please enter the city you want to visit: ")
 for city in user:

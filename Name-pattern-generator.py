@@ -1,3 +1,5 @@
+# Name pattern generator.
+
 user= input("Please enter your name: ")
 print(user[0::2])
 print(user[0::3])

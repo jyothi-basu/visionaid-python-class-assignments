@@ -1,3 +1,5 @@
+# Calculating number of lines, words and characters in a file.
+
 line_count= 0
 word_count= 0
 file= open("Data.txt", "r")

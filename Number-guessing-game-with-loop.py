@@ -1,3 +1,5 @@
+# number guessing game with loop.
+
 import random
 
 #a small number guessing game.

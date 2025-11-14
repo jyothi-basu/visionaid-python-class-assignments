@@ -1,3 +1,5 @@
+# Calculating number of vowels and consonants.
+
 user= input("Please enter some text: ")
 vowels= "aeiou"
 vowels_count= 0

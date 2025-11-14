@@ -1,3 +1,5 @@
+# Calculating number of mail IDs in user input.
+
 gmail= "@gmail.com"
 outlook= "@outlook.com"
 number_gmail= 0

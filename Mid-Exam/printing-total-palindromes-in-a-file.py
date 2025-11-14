@@ -1,3 +1,5 @@
+# Printing total palindromes in a file.
+
 file1= open("anna_the_palindrome_girl.txt", "r")
 file_contents= file1.read()
 file1.close()

@@ -1,3 +1,5 @@
+# Checking flights duplicate data.
+
 file = open("Flights.txt")
 
 previous_line = ""

@@ -1,3 +1,5 @@
+# Checking maximum bookings for airlines from data.
+
 file= open("Airlines.txt")
 airline1= 0
 airline2= 0

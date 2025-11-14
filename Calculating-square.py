@@ -1,3 +1,5 @@
+# calculating square.
+
 try:
     num=int(input("Please enter the number"))
     print(num**2)
