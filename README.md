@@ -5,6 +5,16 @@ Each file represents one problem or exercise solved during the course to build a
 
 ## About This Repository
 The assignments in this repository cover a wide range of Python topics, including:
+# visionaid-python-class-assignments
+contains all the assignments that I have done to complete the course.
+
+# VisionAid Python Class Assignments
+
+This repository contains all the Python assignments I have completed as part of the Vision-Aid Python training program.  
+Each file in this repo represents one problem or exercise that helped me build my skills in core Python programming.
+
+## About This Repository
+The assignments included here cover many important Python topics, such as:
 - input and output  
 - conditional statements  
 - loops and iteration  
@@ -66,13 +76,13 @@ Project Repository:
 
 ## Examples of Assignments
 Some example programs included in this repository:
-- simple-calculator.py  
-- name-pattern-generator.py  
-- calculating-number-of-lines-words-characters-in-a-file.py  
-- printing-top-3-most-repeated-words-in-a-text-file.py  
-- writing-a-password-strength-checker.py  
-- random-prime-numbers.py  
-- number-guessing-game-with-functions.py  
+- list and tuple operations  
+- dictionaries  
+- file handling  
+- email and text analysis  
+- small games and logic exercises  
+- pattern printing  
+- exception handling  
 
 ## Author
 Jyothi Basu  
