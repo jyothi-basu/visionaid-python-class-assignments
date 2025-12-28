@@ -7,7 +7,7 @@ file1.close()
 palindromes_count= 0
 words= file_contents.split()
 
-file2= open("Jyothibasu_palindromes.txt", "w")
+file2= open("Palindromes.txt", "w")
 for word in words:
     if word == word[::-1] and len(word) > 1:
         file2.write(word + "\n")
